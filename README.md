@@ -93,15 +93,15 @@ Se recomienda configurarlas antes de probar la función de envío de correos.
 ## 🧠 Aprendizajes personales
 - Durante la refactorización de este proyecto, puse en práctica:
 
-- Separación de responsabilidades (UI vs lógica).
-
-- Validación estructurada de entradas del usuario.
-
-- Buenas prácticas de manejo de errores.
-
-- Mejora de la experiencia de usuario (UI/UX).
-
-- Uso de recursos externos como plantillas RTF.
+   - Separación de responsabilidades (UI vs lógica).
+   
+   - Validación estructurada de entradas del usuario.
+   
+   - Buenas prácticas de manejo de errores.
+   
+   - Mejora de la experiencia de usuario (UI/UX).
+   
+   - Uso de recursos externos como plantillas RTF.
 
 ## 📃 Licencia
 Este proyecto fue realizado con fines educativos y no tiene una licencia comercial. Puedes usarlo como referencia para tus propios desarrollos personales.
