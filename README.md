@@ -68,7 +68,7 @@ Proyecto_Facturacion/
 
 1. Clona el repositorio:
    ```bash
-git clone https://github.com/vanessabguijarro/proyectoCSharp.git
+   git clone https://github.com/vanessabguijarro/proyectoCSharp.git
 
 2. Abre el archivo .sln en Visual Studio.
 
