@@ -74,9 +74,9 @@ Proyecto_Facturacion/
 
 3. Asegúrate de tener instalado:
 
-.NET Framework 4.7.2 Developer Pack
+   - .NET Framework 4.7.2 Developer Pack
 
-MySQL Server corriendo localmente
+   - MySQL Server corriendo localmente
 
 4. Modifica la cadena de conexión en App.config:
 
