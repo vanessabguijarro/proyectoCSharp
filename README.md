@@ -68,4 +68,20 @@ Proyecto_Facturacion/
 
 1. Clona el repositorio:
    ```bash
-   
+git clone https://github.com/vanessabguijarro/proyectoCSharp.git
+
+2. Abre el archivo .sln en Visual Studio.
+
+3. Asegúrate de tener instalado:
+
+.NET Framework 4.7.2 Developer Pack
+
+MySQL Server corriendo localmente
+
+4. Modifica la cadena de conexión en App.config:
+
+<connectionStrings>
+  <add name="MySqlConexion" connectionString="server=localhost;uid=root;password=TU_CLAVE;database=empresa"/>
+</connectionStrings>
+     
+5. Ejecuta la aplicación con F5 🚀
