@@ -45,10 +45,6 @@ Aplicación de escritorio desarrollada en **C# con Windows Forms y MySQL**, que 
 ### Alta de empresa
 ![Alta Empresa](./screenshots/alta_empresa.png)
 
-### Emisión de factura
-![Emitir Factura](./screenshots/emitir_factura.png)
-
----
 
 ## ⚙️ Estructura del código
 
